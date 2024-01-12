@@ -15,7 +15,7 @@
   MyEC2:
     Type: AWS::EC2::Instance
     Properties:
-      InstanceType: t2.micro
+      InstanceType: t2.small
       SecurityGroupIds:
         - !Ref MySG 
       ImageId: ami-06d4b7182ac3480fa
