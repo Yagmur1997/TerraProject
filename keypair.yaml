@@ -1,0 +1,7 @@
+#Key pair
+AWSTemplateFormatVersion: '2010-09-09'
+Resources:
+  MyKeyPair:
+    Type: AWS::EC2::KeyPair
+    Properties:
+      KeyName: MyKeyPair
