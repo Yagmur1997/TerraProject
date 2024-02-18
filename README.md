@@ -24,9 +24,9 @@ terraform init
 
 3. Plan and apply changes:
 
-terraform plan -out=tfplan  or terraform plan
+terraform plan -out=tfplan 
 
-terraform apply tfplan or terraform apply 
+terraform apply tfplan
 
 4. Clean up resources:
 
