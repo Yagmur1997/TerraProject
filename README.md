@@ -14,7 +14,7 @@ Before using this Terraform project, you need to have the following prerequisite
 
 1. Clone the repository: 
 
-git clone https://github.com/Yagmur1997/public-repo.git
+git clone https://github.com/Yagmur1997/TerraProject.git
 cd repository
 
 2. Initialize Terraform:
@@ -23,8 +23,8 @@ terraform init
 
 3. Plan and apply changes:
 
-terraform plan -out=tfplan
-terraform apply tfplan
+terraform plan -out=tfplan  or terraform plan
+terraform apply tfplan or terraform apply 
 
 4. Clean up resources:
 
@@ -32,4 +32,4 @@ terraform destroy
 
 ## Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please [open an issue](https://github.com/Yagmur1997/3-TIER-ARCHITECTURE-PROJECT/issues) or [submit a pull request](https://github.com/Yagmur1997/3-TIER-ARCHITECTURE-PROJECT/pulls).
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please [open an issue](https://github.com/Yagmur1997/TerraProject/issues) or [submit a pull request](https://github.com/Yagmur1997/TerraProject/pulls).
