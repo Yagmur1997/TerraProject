@@ -15,6 +15,7 @@ Before using this Terraform project, you need to have the following prerequisite
 1. Clone the repository: 
 
 git clone https://github.com/Yagmur1997/TerraProject.git
+
 cd repository
 
 2. Initialize Terraform:
