@@ -14,7 +14,7 @@ Before using this Terraform project, you need to have the following prerequisite
 
 1. Clone the repository: 
 
-git clone https://github.com/Yagmur1997/3-TIER-ARCHITECTURE-PROJECT.git
+git clone https://github.com/Yagmur1997/public-repo.git
 cd repository
 
 2. Initialize Terraform:
